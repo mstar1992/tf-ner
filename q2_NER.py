@@ -11,8 +11,6 @@ import data_utils.ner as ner
 from utils import data_iterator 
 from model import LanguageModel
 
-#from q1_softmax import softmax ###
-#from q1_softmax import cross_entropy_loss ###
 class Config(object):
   """Holds model hyperparams and data information.
 
